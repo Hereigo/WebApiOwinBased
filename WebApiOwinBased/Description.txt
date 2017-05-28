@@ -1,0 +1,6 @@
+﻿
+1. Create Empty WebAPI project.
+
+2. Install-package ASP.NET Web API 2 Core Library
+
+3. 

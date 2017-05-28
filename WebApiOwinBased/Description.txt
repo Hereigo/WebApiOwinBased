@@ -3,4 +3,14 @@
 
 2. Install-package ASP.NET Web API 2 Core Library
 
-3. 
+3. Install-package Owin.Host.System.Web
+
+4. Add an empty WebAPI-Controller.
+
+5. Add a Model & fill Controller with - public IHttpActionResult Get();
+
+6. Install-package Microsoft.AspNet.WebApi.Owin
+
+7. Add "Startup.cs" with public void Configuration(IAppBuilder appBuilder) - for start Katana.
+
+8. Add "WebApiConfig.cs"
